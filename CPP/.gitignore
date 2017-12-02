@@ -1,0 +1,9 @@
+# Editor specific files
+#######################
+*.vcxproj.filters
+*.opensdf
+*.sdf
+*.suo
+
+# Debug folder
+Debug/
